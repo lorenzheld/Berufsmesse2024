@@ -5,6 +5,7 @@ public class Baum {
     public Baum() {
 
     }
+
     public void Baum(){
 
         int anzahlSterne = 10;
